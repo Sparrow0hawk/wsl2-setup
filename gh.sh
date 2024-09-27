@@ -9,3 +9,6 @@ curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo 
 && sudo apt update \
 && sudo apt install gh -y
 
+
+# keyring updated manually based on https://github.com/cli/cli/issues/9569
+
