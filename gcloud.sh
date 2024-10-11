@@ -8,3 +8,6 @@ echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] https://packages.clou
 
 sudo apt-get update && sudo apt-get install google-cloud-cli
 
+# install cloud run proxy
+sudo apt-get install google-cloud-cli-cloud-run-proxy
+
